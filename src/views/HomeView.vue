@@ -22,6 +22,12 @@ export default {
 					description: '简单购物车功能',
 					path: '/cart',
 				},
+				{
+					id: 2,
+					title: '待办事项',
+					description: 'to-do list',
+					path: '/todo',
+				},
 			],
 		}
 	},
@@ -48,7 +54,7 @@ export default {
 
 .demo-card {
 	padding: 1.5rem;
-	border: 1px solid #eee;
+	border: 3px solid #eee;
 	border-radius: 8px;
 	text-decoration: none;
 	color: inherit;
