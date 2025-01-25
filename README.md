@@ -1,35 +1,37 @@
-# vue3-demos
+<h1 align="center">Welcome to vue3-demos 👋</h1>
+<p>
+  <img alt="Version" src="https://img.shields.io/badge/version-0.0.0-blue.svg?cacheSeconds=2592000" />
+  <a href="#" target="_blank">
+    <img alt="License: MIT" src="https://img.shields.io/badge/License-MIT-yellow.svg" />
+  </a>
+</p>
 
-This template should help get you started developing with Vue 3 in Vite.
+> Some demos when studying vue3
 
-## Recommended IDE Setup
+### ✨ [Demo](vue-3-demos.vercel.app)
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur).
-
-## Customize configuration
-
-See [Vite Configuration Reference](https://vite.dev/config/).
-
-## Project Setup
+## Install
 
 ```sh
 pnpm install
 ```
 
-### Compile and Hot-Reload for Development
+## Usage
 
 ```sh
 pnpm dev
 ```
 
-### Compile and Minify for Production
+## Author
 
-```sh
-pnpm build
-```
+👤 **Zong Fan**
 
-### Lint with [ESLint](https://eslint.org/)
+* Website: https://blog.wkndnite-tech.cn
+* Github: [@WkndNite](https://github.com/WkndNite)
 
-```sh
-pnpm lint
-```
+## Show your support
+
+Give a ⭐️ if this project helped you!
+
+***
+_This README was generated with ❤️ by [readme-md-generator](https://github.com/kefranabg/readme-md-generator)_
